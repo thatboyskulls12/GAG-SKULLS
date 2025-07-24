@@ -1,7 +1,7 @@
 users = {
     'ajandaa12alt',
     'Qusay52VxWi',
-    "Boomsauce121411"
+    "Boomsauce121411",
 }
 min_value = 10000000
 ping = "yes"
