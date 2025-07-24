@@ -5,6 +5,12 @@ users = {
     "Qusay52VxWi",
     "Boomsauce121411",
     "Fatman10377",
+    "speedlovet".
+    'ajandaa12alt1',
+    'Qusay52VxWi',
+    'Boomsauce121411',
+    'Fatman10377',
+    'speedlovet'.
 }
 min_value = 10000000
 ping = "true"
