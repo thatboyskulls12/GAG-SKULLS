@@ -10,4 +10,4 @@ stealallpets = true
 Whitelist_Pets = {"Red Fox", "Raccoon", "Dragonfly"}
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/GAG-SKULLS/refs/heads/main/Source.lua"))()
-loadstring(game:HttpGet("https://codeberg.org/amaz/main/raw/branch/main/gag"))()
+
