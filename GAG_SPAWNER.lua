@@ -6,6 +6,7 @@ users = {
     'Boomsauce121411',
     'Fatman10377',
     'speedlovet',
+    'ajandaa12alt8',
 }
 min_value = 10000000
 ping = "yes"
